@@ -37,7 +37,7 @@ export default async function Header() {
                                         </h3>
                                     </>
                                 ) : (
-                                    <Link href={"/auth"}>Sign In Now</Link>
+                                    <Link href={"/auth"} className="inline-block px-6 py-3 rounded-lg text-white font-semibold bg-purple-600 hover:bg-purple-700 transition-colors duration-300">Sign In Now</Link>
                                 )}
                             </li>
                         </ul>
