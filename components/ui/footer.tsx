@@ -59,13 +59,13 @@ export default function Footer() {
                 <h6 className="text-gray-200 font-medium mb-1 text-md">Know Your Instructors</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Mr. Saksham Sengar</Link>
+                    <Link href="https://www.instagram.com/sakshamsengar/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Mr. Saksham Sengar</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Mr. Saksham Dhawan</Link>
+                    <Link href="https://www.instagram.com/sakshamsengar/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Mr. Saksham Dhawan</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Ms. Jane Doe</Link>
+                    <Link href="https://www.instagram.com/sakshamsengar/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Ms. Jane Doe</Link>
                   </li>
                 </ul>
               </div>
